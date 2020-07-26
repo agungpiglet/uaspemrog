@@ -1,0 +1,25 @@
+{
+  "name": "uaspemrog",
+  "version": "1.0.0",
+  "description": "UAS Pemrog WEB PIGLET SHOWROOM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agungpiglet/uaspemrog.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "reactjs",
+    "nodejs"
+  ],
+  "author": "Agung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agungpiglet/uaspemrog/issues"
+  },
+  "homepage": "https://github.com/agungpiglet/uaspemrog#readme"
+}
